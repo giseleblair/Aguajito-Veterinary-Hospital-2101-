@@ -1,0 +1,22 @@
+
+  - id: "6e56-cd0d-56b3"
+    web:
+      metaDescription: ""
+      metaTitle: "Office Tour"
+      metaLinkText: "Office Tour"
+      metaKeywords: ""
+      pathPart: "office-tour"
+      path: "/about-us/office-tour/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/about-us/"
+    meta:
+      sort: 5
+      listed: false
+    data:
+      body_text: "<p>Welcome! Come take a tour of our state-of-the-art clinic!</p>"
+      main_image: "https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/office-tour.9c27d5af619089da8db7cb29e414f6ac.jpeg"
+      page_title: "Office Tour"
+      youtube_id: "H2p1UZlgLjo"

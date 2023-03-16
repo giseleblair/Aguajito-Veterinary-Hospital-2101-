@@ -1,0 +1,70 @@
+
+  - id: "ec89-c26d-805d"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      button_text: "Learn More"
+      image: "https://ddp2ys.media.zestyio.com/pet-portrait-dog-outside.jpg"
+      image_caption: ""
+      image_title: "About Us"
+      links_to: "fbed-f7ac-f636"
+      sort_order: 1
+  - id: "222e-4c40-479f"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 3
+      listed: true
+    data:
+      button_text: "Learn More"
+      image: "https://ddp2ys.media.zestyio.com/pet-kitten-lay-arms-out.jpg"
+      image_caption: "<p>Contact our friendly staff today!</p>"
+      image_title: "Contact Us"
+      links_to: "9304-1024-2214"
+      sort_order: 3
+  - id: "856c-1de7-e52f"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 2
+      listed: true
+    data:
+      button_text: "Learn More"
+      image: "https://ddp2ys.media.zestyio.com/pet-dog-cat-together-sniff.jpg"
+      image_caption: ""
+      image_title: "Services"
+      links_to: "114e-8e22-a8a5"
+      sort_order: 2

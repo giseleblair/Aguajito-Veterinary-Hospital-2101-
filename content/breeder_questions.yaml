@@ -1,0 +1,21 @@
+
+  - id: "a549-ca69-8bab"
+    web:
+      metaDescription: ""
+      metaTitle: "Breeder Questions"
+      metaLinkText: "Breeder Questions"
+      metaKeywords: ""
+      pathPart: "breeder-questions"
+      path: "/resources/breeder-questions/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/resources/"
+    meta:
+      sort: 16
+      listed: true
+    data:
+      body_text: "<h5>Questions to Ask Your Potential Breeder</h5>\n                      <p>When selecting a breeder it can be difficult to know what questions to ask. We've provided a list of common questions to ask your potential breeder.</p>\n                      <p>These have been adapted from the <a href=\"http://www.akc.org/content/dog-care/articles/questions-to-ask-your-potential-breeder/\">American Kennel Club's blog</a>.</p>"
+      main_image: "https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/breeder-questions.9c27d5af619089da8db7cb29e414f6ac.jpeg"
+      page_title: "Breeder Questions"

@@ -1,0 +1,26 @@
+
+  - id: "322d-1478-4cc7"
+    web:
+      metaDescription: ""
+      metaTitle: "Patient Forms"
+      metaLinkText: "Patient Forms"
+      metaKeywords: ""
+      pathPart: "patient-forms"
+      path: "/patient-resources/patient-forms/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/patient-resources/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      additional_fields: ""
+      body_text: "Please fill out the new patient form and bring it in to your first appointment."
+      default_fields: "no_form"
+      download_form_note: "Click the PDF icon to download."
+      embedded_form_instrux: "If you're interested in Doggy Day Care, please make an appointment and then fill out the form below."
+      main_image: "https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/paperwork.jpeg"
+      page_title: "Patient Forms"
+      send_form_to: "petclinic@email.com"

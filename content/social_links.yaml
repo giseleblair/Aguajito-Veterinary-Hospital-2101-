@@ -1,0 +1,61 @@
+
+  - id: "d1a3-cc26-b8e0"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      font_awesome_icon: "facebook-square"
+      name: "Facebook"
+      url: "https://www.facebook.com/aguajitoveterinaryhospital/"
+  - id: "cbc7-7ff7-87e6"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      font_awesome_icon: "yelp"
+      name: "Yelp"
+      url: "https://www.yelp.com/biz/aguajito-veterinary-hospital-monterey"
+  - id: "79f5-f2aa-7637"
+    web:
+      metaDescription: ""
+      metaTitle: "instagram"
+      metaLinkText: "instagram"
+      metaKeywords: ""
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      font_awesome_icon: "instagram"
+      name: "instagram"
+      url: "https://www.instagram.com/aguajitoveterinaryhospital/"

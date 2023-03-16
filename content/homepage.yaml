@@ -1,0 +1,24 @@
+
+  - id: "65ac-df0a-1ca3"
+    web:
+      metaDescription: "Aguajito Veterinary Hospital is locally owned & has been serving since . Call now for reliable care for your dog or cat."
+      metaTitle: " Animal Hospital in Monterey, CA "
+      metaLinkText: "Home"
+      metaKeywords: null
+      pathPart: "zesty_home"
+      path: "/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 0
+      listed: true
+    data:
+      background_pattern: "https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/low_contrast_linen.png"
+      homepage_title: "Aguajito Veterinary Hospital"
+      timeline_btn_links_to: "114e-8e22-a8a5"
+      timeline_button_text: "Discover our services"
+      timeline_subtitle: "We offer the best care for pets of all ages"
+      timeline_title: null

@@ -1,0 +1,21 @@
+
+  - id: "747b-e1c6-dfe3"
+    web:
+      metaDescription: ""
+      metaTitle: "Our Photos"
+      metaLinkText: "Our Photos"
+      metaKeywords: ""
+      pathPart: "our-photos"
+      path: "/about-us/our-photos/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/about-us/"
+    meta:
+      sort: 4
+      listed: false
+    data:
+      body_text: "<h4>Meet our pets, clients, and patients!</h4>"
+      main_image: "https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/cat-play.9c27d5af619089da8db7cb29e414f6ac.jpeg"
+      page_title: "Our Photos"

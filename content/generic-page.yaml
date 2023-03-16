@@ -1,0 +1,115 @@
+
+  - id: "fdb9-0746-5176"
+    web:
+      metaDescription: ""
+      metaTitle: "Announcements"
+      metaLinkText: "Announcements"
+      metaKeywords: null
+      pathPart: "announcements"
+      path: "/announcements/"
+      sitemapPriority: -1
+      canonicalTagMode: 0
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 2
+      listed: true
+    data:
+      content: "<p></p>\n<hr />\n<p style=\"text-align: center; font-size: 30px;\"><a href=\"https://www.aaha.org/public_documents/professional/resources/vaccination_poster.pdf\" target=\"_blank\" rel=\"noopener\"><span style=\"display: block; text-align: center;\">Lifestyles of the Healthy and Protected</span></a></p>\n<hr />\n<p><img style=\"max-width: 100%;\" src=\"https://3gz0ml.media.zestyio.com/bravecto-products.jpg\" alt=\"We now supply BRAVECTO at Aguajito Veterinary Hospital\" width=\"100%\" /></p>"
+      title: "announcements"
+  - id: "254c-5aa8-692a"
+    web:
+      metaDescription: ""
+      metaTitle: "Privacy Policy"
+      metaLinkText: "Privacy Policy"
+      metaKeywords: ""
+      pathPart: "privacy-policy"
+      path: "/privacy-policy/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 12
+      listed: false
+    data:
+      content: ""
+      title: "Privacy Policy"
+  - id: "5ef6-48cd-6de7"
+    web:
+      metaDescription: "Learn More"
+      metaTitle: "Pet Safety Alert: The Rising Dangers of Blue-Green Algae"
+      metaLinkText: "Pet Safety Alert: The Rising Dangers of Blue-Green Algae"
+      metaKeywords: "virus"
+      pathPart: "pet-safety-alert--the-rising-dangers-of-blue-green-algae"
+      path: "/blog/pet-safety-alert--the-rising-dangers-of-blue-green-algae/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 105
+      listed: true
+    data:
+      content: "<p><a href=\"https://www.aspca.org/news/pet-safety-alert-rising-dangers-blue-green-algae\" target=\"_blank\">Learn More</a></p><div class=\"panel-pane pane-entity-field pane-node-body\" style=\"box-sizing: inherit; margin-bottom: 100px; clear: left; color: rgb(39, 38, 38); font-family: &quot;Museo Slab 300&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, &quot;Trebuchet MS&quot;, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;\"><div class=\"field field-name-body field-type-text-with-summary field-label-hidden\" style=\"box-sizing: inherit;\"><div class=\"field-items\" style=\"box-sizing: inherit;\"><div class=\"field-item even\" style=\"box-sizing: inherit;\"><p></p></div></div></div></div>"
+      title: "Pet Safety Alert: The Rising Dangers of Blue-Green Algae"
+  - id: "0da4-016e-ba2f"
+    web:
+      metaDescription: "H3N2 Outbreak"
+      metaTitle: "H3N2 Outbreak in Oakland California"
+      metaLinkText: "H3N2 Outbreak in Oakland California"
+      metaKeywords: "H3N2 Outbreak"
+      pathPart: "h3n2-outbreak-in-oakland-california"
+      path: "/blog/h3n2-outbreak-in-oakland-california/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/blog/"
+    meta:
+      sort: 104
+      listed: true
+    data:
+      content: "<p>Recently, we’ve been receiving questions about dog flu. Pet owners are concerned about stories they had seen or read in the news about outbreaks. In answering their questions, we realized that you may have similar questions and concerns. So, we’re writing to tell you about dog flu, what puts dogs at risk, and what can be done to protect them.</p><p>Dog flu is a relatively new disease and can be caused by two different canine influenza virus strains, H3N8 and H3N2. Both strains of dog flu virus cause respiratory disease in dogs. One or both strains have been found in 46 States. Affected dogs may develop coughing, nasal discharge, fever, lethargy, and loss of appetite. The signs of infection are similar to those of other respiratory diseases in dogs. With proper medical attention, most dogs will recover. However, in some cases, dog flu can progress to a more severe or even life-threatening condition, such as pneumonia.</p><p>Dog flu is highly contagious, so visiting places where dogs socialize or congregate, such as doggie day cares, dog parks, groomers, boarding facilities, dog shows, place dogs at higher risk. Making the situation even more difficult to control is that dogs can spread the virus before obvious signs of illness appear.</p><p>The best way to protect your dog from dog flu is through vaccination. Fortunately, there is a vaccine now available for both dog flu strains. The initial vaccination requires two doses, given 2 to 4 weeks apart. Thereafter, an annual booster is recommended for continued protection. We encourage all dog owners to unite in the effort to stop the spread of this infectious disease. Please contact us to make an appointment for your pet today.</p>"
+      title: "H3N2 Outbreak in Oakland California"
+  - id: "2618-ea88-8981"
+    web:
+      metaDescription: ""
+      metaTitle: "affiliates"
+      metaLinkText: "affiliates"
+      metaKeywords: ""
+      pathPart: "affiliates"
+      path: "/resources/affiliates/"
+      sitemapPriority: -1
+      canonicalTagMode: 0
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/resources/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      content: "<p>Testing</p>"
+      title: "affiliates"
+  - id: "fe2c-4c69-2287"
+    web:
+      metaDescription: ""
+      metaTitle: "Terms of Use"
+      metaLinkText: "Terms of Use"
+      metaKeywords: ""
+      pathPart: "terms-of-use"
+      path: "/terms-of-use/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 17
+      listed: false
+    data:
+      content: ""
+      title: "Terms of Use"

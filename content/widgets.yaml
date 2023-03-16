@@ -1,0 +1,69 @@
+
+  - id: "33b5-c32b-adfa"
+    web:
+      metaDescription: ""
+      metaTitle: "Analytics"
+      metaLinkText: "Analytics"
+      metaKeywords: ""
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data: {}
+  - id: "a9cd-9668-a258"
+    web:
+      metaDescription: ""
+      metaTitle: "GoZesty.com Feed"
+      metaLinkText: "GoZesty.com Feed"
+      metaKeywords: ""
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data: {}
+  - id: "236f-13c5-4f70"
+    web:
+      metaDescription: ""
+      metaTitle: "Recently Updated"
+      metaLinkText: "Recently Updated"
+      metaKeywords: ""
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data: {}
+  - id: "3e4b-94e7-f7c8"
+    web:
+      metaDescription: ""
+      metaTitle: "Zesty Update Log"
+      metaLinkText: "Zesty Update Log"
+      metaKeywords: ""
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data: {}

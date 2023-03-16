@@ -1,0 +1,31 @@
+
+  - id: "9304-1024-2214"
+    web:
+      metaDescription: "Choose Aguajito Veterinary Hospital in Monterey, CA for your pet care provider! We treat cats, dogs & other small animals. Call today! "
+      metaTitle: "Pet Doctor in Monterey, CA "
+      metaLinkText: "Contact Us"
+      metaKeywords: null
+      pathPart: "contact-us"
+      path: "/contact-us/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 7
+      listed: true
+    data:
+      address_one: null
+      address_three: null
+      address_two: null
+      general_info_one: "<div>\nAguajito Veterinary Hospital</br>\n1221 10th Street\nMonterey, CA 93940\n</br>\nPhone: 1-831-372-8151<br>\nFax: 1-833-964-0919</br>\nE-Mail: aguajitoveterinaryhospital@gmail.com\n</br></br>\n</div>\n<!--<div>\n<font style=\"font-size:1.5em; font-weight:900\">After Hours Emergency Referral:</font>\n</br>\n<strong>Pet Specialists of Monterey</strong></br>\n451 Canyon Del Rey Blvd., Del Rey Oaks, CA 93940.</br>\nPhone: 1-831-899-4838  </br>\n\n</br>\n<strong>​Monterey Peninsula Veterinary Emergency & Specialty Center</strong></br>\n20 Lower Ragsdale Dr., Monterey, CA 93940  \n</br>Phone: 1-831-373-7374 </br>\n</div>-->\n"
+      general_info_three: ""
+      general_info_two: "<!--<b>Holiday Hours:</b>\n<br>\n<div>Thanksgiving, November 28<span>&nbsp; &nbsp; &nbsp;&nbsp;CLOSED</span></div>\n<div>Christmas Eve, December 24<span> &nbsp;&nbsp;&nbsp;&nbsp;8 am - 3 pm</span></div>\n<div>Christmas, December 25<span> &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLOSED</span></div>\n<div>New Year's Day, January 1<span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CLOSED</span></div>\n<br>\n-->"
+      google_map_embed: "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3203.3615191836693!2d-121.88079868471603!3d36.59360117999168!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808de449fb9297d7%3A0xc526be46b6acd310!2sAguajito+Veterinary+Hospital!5e0!3m2!1sen!2sus!4v1502895169355\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>"
+      hours_title: "Hours"
+      main_image: "https://ddp2ys.media.zestyio.com/pet-car-cute-drive.jpg"
+      page_title: "Contact Us"
+      phone_number_one: null
+      phone_number_two: null
+      special_hours_info: ""

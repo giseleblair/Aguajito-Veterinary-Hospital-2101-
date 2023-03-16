@@ -1,0 +1,21 @@
+
+  - id: "9b44-e79c-ad80"
+    web:
+      metaDescription: ""
+      metaTitle: "Our Videos"
+      metaLinkText: "Our Videos"
+      metaKeywords: ""
+      pathPart: "our-videos"
+      path: "/about-us/our-videos/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/about-us/"
+    meta:
+      sort: 3
+      listed: false
+    data:
+      body_text: "<h4>Please checkout our videos below.</h4>"
+      main_image: "https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/our-videos.9c27d5af619089da8db7cb29e414f6ac.jpeg"
+      page_title: "Our Videos"

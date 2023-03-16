@@ -1,0 +1,101 @@
+
+  - id: "d89a-4a61-8f8d"
+    web:
+      metaDescription: "https://www.internetbrands.com/privacy/privacy-main.html"
+      metaTitle: "Privacy Policy"
+      metaLinkText: "Privacy Policy"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 115
+      listed: true
+    data:
+      link_title: "Privacy Policy"
+      link_url: "https://www.internetbrands.com/privacy/privacy-main.html"
+      sort_order: 2
+  - id: "db13-d787-05f8"
+    web:
+      metaDescription: "https://entirelypetspharmacy.com/"
+      metaTitle: "Shop Pharmacy"
+      metaLinkText: "Shop Pharmacy"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 114
+      listed: true
+    data:
+      link_title: "Shop Pharmacy"
+      link_url: "https://entirelypetspharmacy.com/"
+      sort_order: 1
+  - id: "168b-c8ff-df8d"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      link_title: "American Kennel Club"
+      link_url: "http://www.akc.org/"
+      sort_order: 1
+  - id: "101b-07c3-7863"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      link_title: "Cat Fanciers' Association"
+      link_url: "http://cfa.org/"
+      sort_order: 2
+  - id: "b332-60c1-2331"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      link_title: "American Society of Ichthyologists and Heretologists"
+      link_url: "http://www.asih.org/"
+      sort_order: 3

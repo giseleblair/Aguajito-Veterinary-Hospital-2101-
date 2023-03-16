@@ -1,0 +1,21 @@
+
+  - id: "6f7e-25df-155b"
+    web:
+      metaDescription: ""
+      metaTitle: "FAQ"
+      metaLinkText: "FAQ"
+      metaKeywords: ""
+      pathPart: "faq"
+      path: "/resources/faq/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/resources/"
+    meta:
+      sort: 14
+      listed: true
+    data:
+      body_text: "<p>Please see a list of frequently asked questions below.</p>\n                        <p>Need more information? Please <a href=\"#\">contact us</a></p>"
+      main_image: "https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/faq.9c27d5af619089da8db7cb29e414f6ac.jpg"
+      page_title: "FAQ"

@@ -1,0 +1,21 @@
+
+  - id: "d60a-2e3a-e1b6"
+    web:
+      metaDescription: ""
+      metaTitle: "Links"
+      metaLinkText: "Links"
+      metaKeywords: ""
+      pathPart: "links"
+      path: "/resources/links/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/resources/"
+    meta:
+      sort: 10
+      listed: true
+    data:
+      body_text: "<p>Our support pharmacy provides largest selection for our clients. Guarantee low price and easy ordering. Shop online now!</p>"
+      main_image: ""
+      page_title: "Shop Pharmacy"

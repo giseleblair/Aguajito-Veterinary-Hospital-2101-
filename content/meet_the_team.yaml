@@ -1,0 +1,22 @@
+
+  - id: "9830-23c4-fba8"
+    web:
+      metaDescription: ""
+      metaTitle: "Meet the Team"
+      metaLinkText: "Meet the Team"
+      metaKeywords: ""
+      pathPart: "meet-the-team"
+      path: "/about-us/meet-the-team/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/about-us/"
+    meta:
+      sort: 1
+      listed: false
+    data:
+      body_text: "<p>Our team is here to help you. Our goal is to meet your needs as it pertains to the health and well-being of their pet. Our clients' pets are members of their family and expect the same quality healthcare as they would for any other member of their family. When your pet comes to Zesty Pet Clinic they become a part of our family too.</p>"
+      main_image: "https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/about-us-hero.H15iUU_ix.9c27d5af619089da8db7cb29e414f6ac.jpeg"
+      number_of_cols: "4"
+      page_title: "Meet the Team"

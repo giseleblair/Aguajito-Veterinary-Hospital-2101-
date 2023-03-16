@@ -1,0 +1,64 @@
+
+  - id: "a5a3-2ff1-bfa9"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      sort_order: 1
+      video_description: "<p>It's important to get your cat used to baths, why not start getting them used to it as a kitten! This video will show you techniques on how to bathe a kitten without scaring it.</p>"
+      video_title: "How To Wash a Kitten Without Making it Scared"
+      youtube_id: "ymxEmbALjIo"
+  - id: "de3e-eaff-5fb4"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      sort_order: 2
+      video_description: "<p>Developing good grooming habits are important, especially with long-haired cats like Maine Coons. Here we'll demonstrate how to groom your cat including bathing, blow drying, nail trimming, and haircuts.</p>"
+      video_title: "How To Groom a Maine Coon"
+      youtube_id: "otlQ27YLhcM"
+  - id: "2cdc-9255-8231"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      sort_order: 3
+      video_description: "Learn some basic grooming techniques for your dog."
+      video_title: "Dog Grooming for Beginners"
+      youtube_id: "rBsDR4TPW3Y"

@@ -1,0 +1,21 @@
+
+  - id: "7990-d6f3-cbad"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      custom_field_name: "Comments"
+      field_type_toggle: 1
+      sort_order: 1

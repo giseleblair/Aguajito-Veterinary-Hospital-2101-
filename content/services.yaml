@@ -1,0 +1,21 @@
+
+  - id: "114e-8e22-a8a5"
+    web:
+      metaDescription: "When you bring your pet to Aguajito Veterinary Hospital in Monterey, CA , you can take comfort in knowing that they will receive the best care available."
+      metaTitle: "Dog & Cat Veterinarian in  "
+      metaLinkText: "Services"
+      metaKeywords: null
+      pathPart: "services"
+      path: "/services/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 4
+      listed: true
+    data:
+      body_text: "<p>The following is a list of services we provide:</p>\n<ul>\n<li>\n<p>Spay &amp; Neuter</p>\n</li>\n<li>\n<p>Vaccines &amp; Preventative Care</p>\n</li>\n<li>\n<p>Diagnostics</p>\n</li>\n<li>\n<p>Digital X-Rays</p>\n</li>\n<li>\n<p>Dental Care</p>\n</li>\n<li>\n<p>Microchipping</p>\n</li>\n<li>\n<p>Pharmacy</p>\n</li>\n<li>\n<p>Boarding</p>\n</li>\n<li>\n<p>Exotics</p>\n</li>\n<li>\n<p>Dermatology</p>\n</li>\n<li>\n<p>Surgery &amp; Post Surgery</p>\n</li>\n<li>Emergency and Urgent Care</li>\n</ul>\n<p>Feel free to contact us with any questions!</p>"
+      main_image: "https://ddp2ys.media.zestyio.com/pet-puppy-dog-sleep.jpg"
+      page_title: "Our Services"

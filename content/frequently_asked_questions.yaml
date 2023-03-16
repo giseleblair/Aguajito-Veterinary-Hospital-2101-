@@ -1,0 +1,61 @@
+
+  - id: "7523-4b22-30fa"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      answer: "Yes, we do. If you have an after-hours emergency, please call us at: 1-800-555-5555."
+      question: "Do you have a veterinarian on-call for after-hours emergencies?"
+      sort_order: 1
+  - id: "bd75-2c17-6bf4"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      answer: "We offer injectable, oral, and topical flea solutions. Please ask your veterinarian about which one would work best for your needs."
+      question: "What types of flea medication do you offer?"
+      sort_order: 2
+  - id: "a59c-14bf-e661"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      answer: "It's important to start the habit when they are young and get them used to the feel of the toothbrush. Ideally, a daily brushing for dogs, and every other day for cats. Ask your veterinarian for tips on how to train your pet tp get used to this routine."
+      question: "How often should I brush my dog or cat's teeth?"
+      sort_order: 3

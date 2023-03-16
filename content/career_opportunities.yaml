@@ -1,0 +1,64 @@
+
+  - id: "e0ce-b233-1e7e"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      job_description: "<p>Busy practice looking to add a FT veterinary receptionist and or RVT,CVA to our staff. Experience in veterinary field is first criteria. Duties include answering multiple phone lines, organizational skills, strong in communication and team support as well as assisting clients and Doctor as needed. We are looking for professional as well as curtious and willing to meet the employers demand as a team member with our current staff. We look forward to hearing from you.</p>"
+      job_location: "San Diego, CA"
+      job_title: "Veterinary Receptionist"
+      sort_order: 1
+  - id: "410b-e899-834f"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      job_description: "<p>Growing AAHA-accredited small animal and exotics hospital is seeking an experienced full-time practice manager to add to our team.&nbsp; Duties include, but are not limited to, personnel and employee benefit management, marketing, accounting, financial planning, client relations and general practice development. The successful candidate must have a strong work ethic, excellent interpersonal skills and be able to handle the stress and emotions that come with working in a fast paced veterinary hospital. We look forward to hearing from you.</p>"
+      job_location: "San Diego, CA"
+      job_title: "Associate Manager"
+      sort_order: 2
+  - id: "ae21-dc6d-8fa0"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      job_description: "<p>Highly motivated registered or experienced technician wanted to join our large modern hospital. The applicant must have advanced technical and nursing skills and possess a lively, outgoing spirit. We want a team member who will become an integral part of a client/patient/doctor relationship. Experience in puppy/kitten socialization and obedience training would be a plus. We look forward to hearing from you.</p>"
+      job_location: "San Diego, CA"
+      job_title: "Veterinary Nurse"
+      sort_order: 3

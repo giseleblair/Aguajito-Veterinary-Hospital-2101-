@@ -1,0 +1,61 @@
+
+  - id: "ed6d-df2f-0631"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      answer: "It's important to know what how much experience your breeder has with breeding and their specific breed. They should be able to address their breed's strengths and weaknesses, as well as any diseases or genetic predisposition that might affect them. You may also want to ask your breeder if they're involved in any kind of clubs or organizations related to their breed."
+      question: "How long have you been breeding? What's your experience with this breed?"
+      sort_order: 1
+  - id: "c45d-e15a-8752"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      answer: "Socialized puppies will have experiences with other animals, children, and adults. This will help your dog to be a better adjusted adult, and much less likely for him/her to be fearful or anxious in situations inside and outside of the household. For example, a children's party at your house, or a day out at the beach; a well socialized dog will likely be much more comfortable in these surroundings if they're well socialized as puppies."
+      question: "How do you socialize your puppies?"
+      sort_order: 2
+  - id: "b9ce-ab84-3a87"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      answer: "Make sure that you have the contact information from the breeder. They are an invaluable source of information and will be able to answer many questions for you. The breeder should be willing to give you their contact information and encourage you to contact them should you have any questions or concerns. Be wary of a breeder that will not give out their contact information."
+      question: "How can we contact you after picking up the puppy?"
+      sort_order: 3

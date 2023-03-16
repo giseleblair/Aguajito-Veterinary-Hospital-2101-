@@ -1,0 +1,51 @@
+
+  - id: "f703-93b7-f226"
+    web:
+      metaDescription: ""
+      metaTitle: "Special Offers"
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      background_image: "https://3gz0ml.media.zestyio.com/aguajito-building.jpg"
+      background_video: null
+      button_text: "Contact Us"
+      horizontal_alignment_for_mobile: "Center"
+      links_to: "9304-1024-2214"
+      second_line: "Call or Text Us!</br>1-831-372-8151"
+      sort_order: 1
+      title: "Schedule your appointment today! <br><br><font size=\"+3\">Now offering Emergency and Urgent Care</font>"
+  - id: "0b1e-4e8c-6f43"
+    web:
+      metaDescription: ""
+      metaTitle: "New Patient Form"
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      background_image: "https://3gz0ml.media.zestyio.com/IMG_0736.jpg"
+      background_video: null
+      button_text: "New Patient Form"
+      horizontal_alignment_for_mobile: "0"
+      links_to: "322d-1478-4cc7"
+      second_line: null
+      sort_order: 1
+      title: "New Patient Form"

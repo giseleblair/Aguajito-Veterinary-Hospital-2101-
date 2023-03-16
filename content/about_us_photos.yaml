@@ -1,0 +1,89 @@
+
+  - id: "449a-5b56-fcbf"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      about_us_photo: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/about-us-our-photos-kitkat.jpg"
+      photo_category: "clients"
+      photo_description: "<p>KitKat is one of our clients. She's been coming to see for 6 months now and is growing into a healthy adult.</p>"
+      photo_title: "Meet KitKat!"
+      sort_order: 1
+  - id: "5e12-b816-eae2"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      about_us_photo: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/about-us-our-photos-mister-cheddar.jpg"
+      photo_category: "clients"
+      photo_description: "<p>Mister Cheddar is their newest member of the family.</p>"
+      photo_title: "Meet Mister Cheddar!"
+      sort_order: 2
+  - id: "52b4-721d-5b00"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      about_us_photo: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/about-us-our-photos-nurse-helps.jpg"
+      photo_category: "clients"
+      photo_description: "<p>Nurse Janice loves to help out her furry friends.</p>"
+      photo_title: "Nurse Janice Helps Out"
+      sort_order: 3
+  - id: "0568-e9b3-36b5"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      about_us_photo: "https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/about-us-main.jpg"
+      photo_category: "clients"
+      photo_description: "<p>Goldie comes in for her annual exam.</p>"
+      photo_title: "Helping out Goldie"
+      sort_order: 4

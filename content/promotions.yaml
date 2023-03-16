@@ -1,0 +1,41 @@
+
+  - id: "0097-5d50-f38d"
+    web:
+      metaDescription: ""
+      metaTitle: "Monthly Promotions"
+      metaLinkText: "Monthly Promotions"
+      metaKeywords: null
+      pathPart: "monthly-promotions"
+      path: "/monthly-promotions/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 8
+      listed: true
+    data:
+      body_text: "<p style=\"box-sizing: border-box; font-family: Arial; line-height: 1.7; color: rgba(0, 0, 0, 0.7); margin-bottom: 15px; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;\"><em style=\"font-size: 24px;\">December Special - Get incredible savings from<strong> 12/1/2021 - 12/31/2021</strong></em></p>\n<h2><img src=\"https://3gz0ml.media.zestyio.com/june-vet-clinic-2021-aguajito.jpg\" data-id=\"3-c270c89-sbcfmg\" title=\"june-vet-clinic-2021-aguajito.jpg\" alt=\"june-vet-clinic-2021-aguajito.jpg\" /></h2>\n<p style=\"box-sizing: border-box; font-family: Arial; line-height: 1.7; color: rgba(0, 0, 0, 0.7); margin-bottom: 15px; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial;\">(MAX Value $35) Limit 1 per client. Must mention Ad.<br />*Cannot be combined with other promotions</p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>"
+      main_image: "https://ddp2ys.media.zestyio.com/pets-cat-dog-widget-background.jpg"
+      page_title: "Monthly Promotions"
+  - id: "c81c-be23-0f9c"
+    web:
+      metaDescription: ""
+      metaTitle: "Promotions"
+      metaLinkText: "Promotions"
+      metaKeywords: ""
+      pathPart: "promotions"
+      path: "/promotions/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 15
+      listed: false
+    data:
+      body_text: "<p>Check out our latest promotions to help you care for your loved one!</p><p></p><p></p>"
+      main_image: "https://20c8f9aa0640fa57fb9f-797f92b87a3f6608f6aa93d5326d7650.ssl.cf2.rackcdn.com/about-us-hero-6.9c27d5af619089da8db7cb29e414f6ac.jpg"
+      page_title: "Promotions"
